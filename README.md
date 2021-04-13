@@ -5,7 +5,7 @@
 ##-ter instalado o mySQL
 
 
-##-configurar seu muSQL na pasta config
+##-configurar seu mySQL na pasta config
 
 
 ##-dar um "npm i" dentro da pasta
