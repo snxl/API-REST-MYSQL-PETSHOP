@@ -11,7 +11,7 @@
 ##-dar um "npm i" dentro da pasta
 
 
-##-logo após "npm start"
+##-logo após "npm start"(se possuir nodemon), caso não possua abra o terminal na pasta bin e escreva "node www"
 
 ##-ROTA-"http://localhost:3000/atendimentos"
 
